@@ -41,8 +41,8 @@ packages:
 # (e.g., acme-missiles-0.3)
 extra-deps:
   - random-fu-multivariate-0.1.2.0
-  - git: git@github.com:bartfrenk/hs-bandit.git
-    commit: e9a15f7393c47bbb75f58ea5bcf985c63f275d88
+  - git: git@github.com:bartfrenk/bandit-agents.git
+    commit: 3acf869eefc721a7e0e26b54e88fed4979eb6ba3
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
